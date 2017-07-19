@@ -1,6 +1,6 @@
 # BigBox-Application-4th-Iteration
 <h3>Description</h3>
- <p> This project is the 3.0 version or iteration of BigBox Application version 2.0. This is a console application and consists of Division and Store classes stored
+ <p> This project is the 4.0 version or iteration of BigBox Application version 3.0. This is a console application and consists of Division and Store classes stored
  into their respective packages. It implements the DAO Factory Pattern and stores and gets the data from MYSQL Database. It also includes MySQL connector and other Jar files and 
  SQL Script in bigbox.SQL package.</p>
  <p>This project consists of following features:-</p>
